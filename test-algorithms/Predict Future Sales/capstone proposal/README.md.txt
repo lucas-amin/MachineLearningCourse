@@ -1,0 +1,1 @@
+# All data that will be used can be retrieved at https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data

@@ -1,0 +1,5 @@
+Possible features:
+
+
+- Length of item description
+- Item description word count
